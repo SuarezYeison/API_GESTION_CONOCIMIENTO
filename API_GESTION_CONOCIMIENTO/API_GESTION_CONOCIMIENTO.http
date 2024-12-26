@@ -1,0 +1,6 @@
+@API_GESTION_CONOCIMIENTO_HostAddress = http://localhost:5261
+
+GET {{API_GESTION_CONOCIMIENTO_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
